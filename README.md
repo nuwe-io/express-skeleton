@@ -1,4 +1,3 @@
-<img align="left"  width="150" height="150" src=".github/rviewer_logo--dark.png" />
 ## Technologies
 
 * [Typescript 4.7](https://www.typescriptlang.org/docs/handbook/release-notes/typescript-4-4.html)
